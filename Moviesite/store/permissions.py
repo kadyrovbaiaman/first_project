@@ -12,3 +12,5 @@ class CanWatchMovie(permissions.BasePermission):
 
         return False
 
+
+
